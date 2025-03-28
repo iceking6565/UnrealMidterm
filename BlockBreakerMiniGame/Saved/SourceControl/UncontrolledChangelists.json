@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Maps/lvl1.umap",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/Paddle_BP.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/BreakerGameMode.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Input/Move_InputAct.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Input/Breaker_IMC.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/Ball_BP.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/Brick_BP.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Materials/Master_Mat.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Materials/Green_Inst.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Materials/Red_Inst.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Materials/Yellow_Inst.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Materials/Bouncy_Mat.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/PlayerHUD.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/BallDestroyer_BP.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/BallSpawner_BP.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/GameOver_WID.uasset",
+				"C:/Users/eguer/Documents/Unreal Projects/BlockBreakerMiniGame/Content/Blueprints/GameOverScreen_BP.uasset"
+			]
+		}
+	]
+}
